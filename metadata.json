@@ -1,0 +1,6 @@
+{
+  "name": "AURORA Boxing Femme - Tienda & Equipamiento de Boxeo Femenino",
+  "description": "Tienda online premium de equipamiento y artículos de boxeo diseñados específicamente para mujeres, con guía interactiva de tallas, paleta soft y reseñas verificadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
