@@ -78,7 +78,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCalculator }) => {
           <div className="lg:col-span-6 flex items-center justify-center">
             <div className="relative w-full h-[400px] sm:h-[480px] lg:h-full min-h-[440px] rounded-3xl overflow-hidden border border-[#E6D8D2] shadow-xl group">
               <img
-                src="/src/assets/images/hero_female_boxing_1792363551237.jpg"
+                src="images/hero_female_boxing_1792363551237.jpg"
                 alt="Boxeadora con vendas suaves en tono soft blush preparándose para el asalto"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center group-hover:scale-102 transition-transform duration-700"
